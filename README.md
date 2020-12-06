@@ -1,5 +1,5 @@
 # git_skills
-This is for git practice as well
+This is also for git practice.
 
 Creating a new branch is quick and simple.
 
